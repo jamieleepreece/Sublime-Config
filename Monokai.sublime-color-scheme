@@ -1,0 +1,22 @@
+{
+    "globals":
+    {
+        "background": "#1d2125",
+        "gutter": "#1d2125",
+        "gutter_foreground": "#7e8e919d",
+        // "selection": "#e6db74",
+        // "guide": "#404040"
+    },
+    "rules":
+    [
+        // {
+        //     "scope": "comment, punctuation.definition.comment",
+        //     "foreground": "#7e8e91"
+        // },
+        {
+            "name": "PHP Object Operator",
+            "scope": "punctuation.accessor.arrow",
+            "foreground": "#8C9FA3"
+        }
+    ]
+}
