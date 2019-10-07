@@ -9,10 +9,6 @@
     },
     "rules":
     [
-        // {
-        //     "scope": "comment, punctuation.definition.comment",
-        //     "foreground": "#7e8e91"
-        // },
         {
             "name": "PHP Object Operator",
             "scope": "punctuation.accessor.arrow",
